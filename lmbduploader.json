@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lambdaimguploader",
+  "private_key_id": "b65b46471cdab68a7139b9db12aae0c9524bf725",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3jVQzcI6Mv6jF\nCWrq78MzQo1oGG/Gg+Hw98bsoNFGY4e/MN4XsUGVUbf1LwPiu+bJawIe2EY99ygk\nnvrdhS3DBYqhikGlkZpSGpRE1vw0Y/TsqSAzDDi06hDqlAF2KHlCSTG1d/VzCPNt\n30FVLJunbsA0Jb8A3TFSHYh9bzNk/brZe6VJaDL7+UZOX8q4OU9HTlg8d0+vE+sl\nsLM9pjTmlivEyTxcVNlGWnkk1rcBNK6YFLOhArizPcWJaBL8WGvonZ1o7E6VZgYF\n+NCZ3JnBsyFHa1kqMbKtwWaA1lYiQw8kpWdH1a/E33lTSGsA8Z3bYlaH0mCw4S2c\nlSDu1OA3AgMBAAECggEAMnX/HPknp1gVbL3PD/GER3ZXa7O0Hu4o0lc779eyUNiR\n/CTSGc9YSVWi7hvTxKSFqP/rIFGy1dw5w/+U1guD7iZ62zgoHf1uYH4AHwC/ayPD\ntMA2IvKMMGhc6DBySmqME4YNzWbCKrLeQWlsC59s11XiLzPlU7Z7laia2mkUxwFm\ntASe6HUqcJ6we0Oy7nTQFl16L/Axfsf2lX4VfprrT0cJ11c3HNUX3DxyP3VpV9T1\nVVK/cDFWmZ1ZX211ghTYMvJNPG509ZfEYU6MeyqI9qZQddQ+BwuSG2YX/wHYlTb4\nD+zKYFOKNMHt9QdhIn94uIoxRXB5QhMAAWCU24nPIQKBgQDppFRtIf3CW1aCr7oj\nRJTJXdeR/Q38foWOwVwntko33jpjBbYgoMdbk9rXZ9rBN6J8w7tbI26/wXSS8R4e\n1jGPNEzGW7mbuRrW+A24g/yfUUm3B1QioVoRVQM/UCHCtldmTBivezPFtatvDrtg\ngyMWDx8fugVXgCIy0GekgbQI5wKBgQDJHerN+HDAB4F1D1WkPQNxwuhPISCG8EE3\nVDGbE91C5QCIlpfMQxoMgViQnjLWWqN/pahg3+RTf3LLSS05c68pxp+yQSn7rg/n\nsluaNrYTHf8snEu7FZm0xUCnw6exvgZ+/P9SZ1bQLlGR7xvPB4KGQ2BNW8dmOMx6\nFsBYSqX0MQKBgA6JyS8ZRF8Jq/Jp2N1E8TUuf7F325zwioL9iSx3bVrYmy16N4EE\nQCN0qdNphPUs7xFwZIIhTEzmTsit9D/a+C5/BJ/7KSuFcyQZP1FR9TA8sKeQ7y1Q\nePhHH/Kam98v1XRqG8cflXMiAM7iTcqNnmtK+ZbRzm9Ja9dZnHliEL/VAoGAE8NE\n14iaS8RxDDe9iq4UMJGekmgG8juZrP4xAbQqAfDO5J0nvYK6hJARS+S/yiCOAHUe\n3qYhobLcbO177DFZ/RjviGyu23R3S6VTKwxFSAuij5esOW4d9I2NlO69A9JQgRoL\nXOWaukpS6aw9Z1KtmNP2GqPyLDFYpoal0AdF14ECgYBU1FgeNG6AtuzY82fc3RKh\nJSXf11eECxd3LJmWM6iUHFX/vl73jClPhQkg9NOqjuxK72+c8CDcpk3MUHVQerOD\ny6suy5CaIXdFm5kei1mbgHhF3J9I2QrMx/UUUcno/Qn47jqUjBpUqhowf/bX15uS\n2hffgUqKQUYtenQZ4nsuCw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lambdadavid@lambdaimguploader.iam.gserviceaccount.com",
+  "client_id": "104429860830252972118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lambdadavid%40lambdaimguploader.iam.gserviceaccount.com"
+}

@@ -1,24 +1,8 @@
 {
   "dependencies": {
+    "api": "^4.5.1",
     "axios": "^0.27.2",
-    "currency-codes": "^2.1.0",
-    "node-telegram-bot-api": "^0.57.0"
-  },
-  "name": "fifthweather",
-  "version": "1.0.0",
-  "description": "Bot 4 trainee mission курс валют + погода",
-  "main": "weather.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "bot",
-    "heroku"
-  ],
-  "author": "dvd",
-  "license": "MIT",
-  "engines": {
-    "node": "16.15.0"
+    "googleapis": "^101.0.0",
+    "inquirer": "^8.2.4"
   }
 }
