@@ -5,7 +5,7 @@ function uniqValues(folder){
     let fileNames = fs.readdirSync(folder);
     let result = []
     fileNames.forEach(name => {
-        let data = fs.readFileSync(folder + '\\' +name, 'utf8')
+        let data = fs.readFileSync(folder + '/' +name, 'utf8')
         data = data.toString().split('\n')
         for(name of data){
             result.push(`{"name":"${name}"}`)
@@ -19,13 +19,13 @@ function uniqValues(folder){
  
 }
 
-uniqValues('C:\\Users\\MSI\\Desktop\\2kk');
+
 
 function existInEveryFolder(folder){
     let fileNames = fs.readdirSync(folder);  
     let result =[];
     fileNames.forEach(name => {
-            let data = fs.readFileSync(folder + '\\' +name, 'utf8')
+            let data = fs.readFileSync(folder + '/' +name, 'utf8')
             let othNames = [...new Set(data.toString().split('\n'))]
             result.push(othNames)
         });
@@ -45,15 +45,13 @@ function existInEveryFolder(folder){
 
 }               
 
-existInEveryFolder('C:\\Users\\MSI\\Desktop\\2kk');
-
 
 
 function existAlmostInEveryFolder(folder){
     let fileNames = fs.readdirSync(folder);  
     let result =[];
     fileNames.forEach(name => {
-            let data = fs.readFileSync(folder + '\\' +name, 'utf8')
+            let data = fs.readFileSync(folder + '/' +name, 'utf8')
             let othNames = [...new Set(data.toString().split('\n'))]
             result.push(othNames)
         });
@@ -74,4 +72,4 @@ function existAlmostInEveryFolder(folder){
 }               
 
 
-existAlmostInEveryFolder('C:\\Users\\MSI\\Desktop\\2kk')
+
