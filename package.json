@@ -1,5 +1,17 @@
 {
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
-    "axios": "^0.27.2"
-  }
+    "express": "^4.18.1"
+  },
+  "name": "correct",
+  "version": "1.0.0",
+  "main": "host.js",
+  "author": "Dav",
+  "license": "ISC",
+  "description": ""
 }
